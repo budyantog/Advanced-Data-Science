@@ -10,7 +10,4 @@ February 2023.
 https://public.tableau.com/views/AdvDSwithIBM-CapstoneProject/Presentation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## GIST Notebook
-https://github.com/budyantog/Advanced-Data-Science.git
-
-## Model Implementation Demo Video
-https://youtu.be/7LmR5EkM3O0?t=1173
+https://github.com/budyantog/Advanced-Data-Science/blob/main/Advanced_Data_Science_Capstone_Healthcare.ipynb
